@@ -1,0 +1,1 @@
+Repository used for messaging apps such as Kafka and RabbitMQ
